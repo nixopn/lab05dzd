@@ -247,6 +247,6 @@ jobs:
 [![Coverage Status](https://coveralls.io/repos/github/nixopn/lab05dzd/badge.svg?branch=master)](https://coveralls.io/github/nixopn/lab05dzd?branch=master)
 
 
-https://raw.githubusercontent.com/nixopn/lab05dzd/53e7579342f36d900fe2655f9be94311ba719906/coveralls.png
+https://raw.githubusercontent.com/nixopn/lab05dzd/497a17278fcb9466d04e01685edc699750dc5b93/coveralls.png
 
-![Image alt](https://raw.githubusercontent.com/nixopn/lab05dzd/53e7579342f36d900fe2655f9be94311ba719906/coveralls.png)
+![Image alt](https://raw.githubusercontent.com/nixopn/lab05dzd/497a17278fcb9466d04e01685edc699750dc5b93/coveralls.png)
