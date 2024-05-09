@@ -203,7 +203,7 @@ To https://github.com/nixopn/lab05dzd
 4. Создаём workflow
 
 `````sh
-name: cmakeoee
+name: CMake
 
 on:
   push:
